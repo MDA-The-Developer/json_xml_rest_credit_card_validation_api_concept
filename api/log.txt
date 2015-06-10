@@ -1,0 +1,494 @@
+
+luhn's algorithm ok... Monday 1st of June 2015 08:41:27 PM
+luhn's algorithm ok... Monday 1st of June 2015 08:41:29 PM
+luhn's algorithm ok... Monday 1st of June 2015 08:41:30 PM
+luhn's algorithm ok... Monday 1st of June 2015 08:41:30 PM
+Validation started  Monday 1st of June 2015 09:15:57 PM
+Luhn's algorithm ok  Monday 1st of June 2015 09:15:57 PM
+reg expired date ok  Monday 1st of June 2015 09:15:57 PM
+Validation started  Monday 1st of June 2015 09:16:58 PM
+Luhn's algorithm ok... Monday 1st of June 2015 09:16:58 PM
+reg expired date ok... Monday 1st of June 2015 09:16:58 PM
+Validation started  Monday 1st of June 2015 09:17:08 PM
+Luhn's algorithm ok... Monday 1st of June 2015 09:17:08 PM
+reg expired date ok... Monday 1st of June 2015 09:17:08 PM
+Validation started  Monday 1st of June 2015 09:17:28 PM
+Luhn's algorithm ok... Monday 1st of June 2015 09:17:28 PM
+reg expired date ok... Monday 1st of June 2015 09:17:28 PM
+Validation started  Monday 1st of June 2015 09:19:35 PM
+Luhn's algorithm ok... Monday 1st of June 2015 09:19:35 PM
+reg expired date ok... Monday 1st of June 2015 09:19:35 PM
+Validation started  Monday 1st of June 2015 09:19:56 PM
+Luhn's algorithm ok... Monday 1st of June 2015 09:19:56 PM
+reg expired date ok... Monday 1st of June 2015 09:19:56 PM
+Validation started  Monday 1st of June 2015 09:20:19 PM
+Luhn's algorithm ok... Monday 1st of June 2015 09:20:19 PM
+reg expired date ok... Monday 1st of June 2015 09:20:19 PM
+Validation started.... Monday 1st of June 2015 09:21:01 PM
+Luhn's algorithm ok... Monday 1st of June 2015 09:21:01 PM
+reg expired date ok... Monday 1st of June 2015 09:21:01 PM
+Validation started.... Monday 1st of June 2015 09:21:23 PM
+Luhn's algorithm ok... Monday 1st of June 2015 09:21:23 PM
+reg expired date ok... Monday 1st of June 2015 09:21:23 PM
+Validation started.... Monday 1st of June 2015 09:36:52 PM
+Luhn's algorithm ok... Monday 1st of June 2015 09:36:52 PM
+reg expired date ok... Monday 1st of June 2015 09:36:52 PM
+CVV2 --- error............... Monday 1st of June 2015 09:36:52 PM
+Validation started.... Monday 1st of June 2015 09:37:50 PM
+Luhn's algorithm ok... Monday 1st of June 2015 09:37:50 PM
+reg expired date ok... Monday 1st of June 2015 09:37:50 PM
+CVV2 --- error............... Monday 1st of June 2015 09:37:50 PM
+Validation started.... Monday 1st of June 2015 09:38:37 PM
+Luhn's algorithm ok... Monday 1st of June 2015 09:38:37 PM
+reg expired date ok... Monday 1st of June 2015 09:38:37 PM
+CVV2 --- ok.................. Monday 1st of June 2015 09:38:37 PM
+email ok... Monday 1st of June 2015 09:38:37 PM
+Validation started.... Monday 1st of June 2015 09:40:46 PM
+Luhn's algorithm ok... Monday 1st of June 2015 09:40:46 PM
+reg expired date ok... Monday 1st of June 2015 09:40:46 PM
+CVV2 --- ok.................. Monday 1st of June 2015 09:40:46 PM
+email ok... Monday 1st of June 2015 09:40:46 PM
+Validation started.... Monday 1st of June 2015 09:42:16 PM
+Luhn's algorithm ok... Monday 1st of June 2015 09:42:16 PM
+reg expired date ok... Monday 1st of June 2015 09:42:16 PM
+CVV2 --- ok.................. Monday 1st of June 2015 09:42:16 PM
+email ok... Monday 1st of June 2015 09:42:16 PM
+Validation started.... Monday 1st of June 2015 09:44:27 PM
+Luhn's algorithm ok... Monday 1st of June 2015 09:44:27 PM
+reg expired date ok... Monday 1st of June 2015 09:44:27 PM
+CVV2 --- ok.................. Monday 1st of June 2015 09:44:27 PM
+email ok... Monday 1st of June 2015 09:44:27 PM
+Validation started.... Monday 1st of June 2015 09:45:03 PM
+Luhn's algorithm ok... Monday 1st of June 2015 09:45:03 PM
+reg expired date ok... Monday 1st of June 2015 09:45:03 PM
+CVV2 --- ok.................. Monday 1st of June 2015 09:45:03 PM
+email ok... Monday 1st of June 2015 09:45:03 PM
+Validation started.... Monday 1st of June 2015 09:45:13 PM
+Luhn's algorithm ok... Monday 1st of June 2015 09:45:13 PM
+reg expired date ok... Monday 1st of June 2015 09:45:13 PM
+CVV2 --- ok.................. Monday 1st of June 2015 09:45:13 PM
+email ok... Monday 1st of June 2015 09:45:13 PM
+Validation started.... Monday 1st of June 2015 09:48:28 PM
+Luhn's algorithm ok... Monday 1st of June 2015 09:48:28 PM
+reg expired date ok... Monday 1st of June 2015 09:48:28 PM
+CVV2 --- ok.................. Monday 1st of June 2015 09:48:28 PM
+email ok... Monday 1st of June 2015 09:48:28 PM
+Validation started.... Monday 1st of June 2015 09:52:04 PM
+Luhn's algorithm ok... Monday 1st of June 2015 09:52:04 PM
+reg expired date ok... Monday 1st of June 2015 09:52:04 PM
+CVV2 --- ok.................. Monday 1st of June 2015 09:52:04 PM
+email ok... Monday 1st of June 2015 09:52:04 PM
+error with array data from database  Monday 1st of June 2015 09:52:04 PM
+Validation started.... Monday 1st of June 2015 09:53:23 PM
+Luhn's algorithm ok... Monday 1st of June 2015 09:53:23 PM
+reg expired date ok... Monday 1st of June 2015 09:53:23 PM
+CVV2 --- ok.................. Monday 1st of June 2015 09:53:23 PM
+email ok... Monday 1st of June 2015 09:53:23 PM
+Validation started.... Monday 1st of June 2015 09:54:20 PM
+Luhn's algorithm ok... Monday 1st of June 2015 09:54:20 PM
+reg expired date ok... Monday 1st of June 2015 09:54:20 PM
+CVV2 --- ok.................. Monday 1st of June 2015 09:54:20 PM
+email ok... Monday 1st of June 2015 09:54:20 PM
+sql request ok... Monday 1st of June 2015 09:54:20 PM
+Validation started.... Monday 1st of June 2015 09:54:52 PM
+Luhn's algorithm ok... Monday 1st of June 2015 09:54:52 PM
+reg expired date ok... Monday 1st of June 2015 09:54:52 PM
+CVV2 --- ok.................. Monday 1st of June 2015 09:54:52 PM
+email ok... Monday 1st of June 2015 09:54:52 PM
+sql request ok... Monday 1st of June 2015 09:54:52 PM
+Validation started.... Monday 1st of June 2015 10:02:47 PM
+Luhn's algorithm ok... Monday 1st of June 2015 10:02:47 PM
+reg expired date ok... Monday 1st of June 2015 10:02:47 PM
+CVV2 --- ok.................. Monday 1st of June 2015 10:02:47 PM
+email ok... Monday 1st of June 2015 10:02:47 PM
+sql request ok... Monday 1st of June 2015 10:02:47 PM
+Validation started.... Monday 1st of June 2015 10:03:49 PM
+Luhn's algorithm ok... Monday 1st of June 2015 10:03:49 PM
+reg expired date ok... Monday 1st of June 2015 10:03:49 PM
+CVV2 --- ok.................. Monday 1st of June 2015 10:03:49 PM
+email ok... Monday 1st of June 2015 10:03:49 PM
+sql request ok... Monday 1st of June 2015 10:03:49 PM
+credit card hash test passed  Monday 1st of June 2015 10:03:49 PM
+Validation started.... Monday 1st of June 2015 10:04:20 PM
+Luhn's algorithm ok... Monday 1st of June 2015 10:04:20 PM
+reg expired date ok... Monday 1st of June 2015 10:04:20 PM
+CVV2 --- ok.................. Monday 1st of June 2015 10:04:20 PM
+email ok... Monday 1st of June 2015 10:04:20 PM
+sql request ok... Monday 1st of June 2015 10:04:20 PM
+credit card hash test passed  Monday 1st of June 2015 10:04:20 PM
+Validation started.... Monday 1st of June 2015 10:04:54 PM
+Luhn's algorithm ok... Monday 1st of June 2015 10:04:54 PM
+reg expired date ok... Monday 1st of June 2015 10:04:54 PM
+CVV2 --- ok.................. Monday 1st of June 2015 10:04:54 PM
+email ok... Monday 1st of June 2015 10:04:54 PM
+sql request ok... Monday 1st of June 2015 10:04:54 PM
+credit card hash test passed  Monday 1st of June 2015 10:04:54 PM
+Validation started.... Monday 1st of June 2015 10:05:13 PM
+Luhn's algorithm ok... Monday 1st of June 2015 10:05:13 PM
+reg expired date ok... Monday 1st of June 2015 10:05:13 PM
+CVV2 --- ok.................. Monday 1st of June 2015 10:05:13 PM
+email ok... Monday 1st of June 2015 10:05:13 PM
+sql request ok... Monday 1st of June 2015 10:05:13 PM
+credit card hash test passed  Monday 1st of June 2015 10:05:13 PM
+Validation started.... Monday 1st of June 2015 10:08:22 PM
+Luhn's algorithm ok... Monday 1st of June 2015 10:08:22 PM
+reg expired date ok... Monday 1st of June 2015 10:08:22 PM
+CVV2 --- ok.................. Monday 1st of June 2015 10:08:22 PM
+email ok... Monday 1st of June 2015 10:08:22 PM
+sql request ok... Monday 1st of June 2015 10:08:22 PM
+credit card hash test passed  Monday 1st of June 2015 10:08:22 PM
+Validation started.... Monday 1st of June 2015 10:08:43 PM
+Luhn's algorithm ok... Monday 1st of June 2015 10:08:43 PM
+reg expired date ok... Monday 1st of June 2015 10:08:43 PM
+CVV2 --- ok.................. Monday 1st of June 2015 10:08:43 PM
+email ok... Monday 1st of June 2015 10:08:43 PM
+sql request ok... Monday 1st of June 2015 10:08:43 PM
+credit card hash test passed  Monday 1st of June 2015 10:08:43 PM
+Validation started.... Monday 1st of June 2015 10:14:24 PM
+Luhn's algorithm ok... Monday 1st of June 2015 10:14:24 PM
+reg expired date ok... Monday 1st of June 2015 10:14:24 PM
+CVV2 --- ok.................. Monday 1st of June 2015 10:14:24 PM
+email ok... Monday 1st of June 2015 10:14:24 PM
+sql request ok... Monday 1st of June 2015 10:14:24 PM
+credit card hash test passed  Monday 1st of June 2015 10:14:24 PM
+something wrong Monday 1st of June 2015 10:14:24 PM
+Validation started.... Monday 1st of June 2015 10:16:25 PM
+Luhn's algorithm ok... Monday 1st of June 2015 10:16:25 PM
+reg expired date ok... Monday 1st of June 2015 10:16:25 PM
+CVV2 --- ok.................. Monday 1st of June 2015 10:16:25 PM
+email ok... Monday 1st of June 2015 10:16:25 PM
+sql request ok... Monday 1st of June 2015 10:16:25 PM
+credit card hash test passed  Monday 1st of June 2015 10:16:25 PM
+something wrong Monday 1st of June 2015 10:16:25 PM
+Validation started.... Monday 1st of June 2015 10:16:34 PM
+Luhn's algorithm ok... Monday 1st of June 2015 10:16:34 PM
+reg expired date ok... Monday 1st of June 2015 10:16:34 PM
+CVV2 --- ok.................. Monday 1st of June 2015 10:16:34 PM
+email ok... Monday 1st of June 2015 10:16:34 PM
+sql request ok... Monday 1st of June 2015 10:16:34 PM
+credit card hash test passed  Monday 1st of June 2015 10:16:34 PM
+something wrong Monday 1st of June 2015 10:16:34 PM
+Validation started.... Monday 1st of June 2015 10:18:05 PM
+Luhn's algorithm ok... Monday 1st of June 2015 10:18:05 PM
+reg expired date ok... Monday 1st of June 2015 10:18:05 PM
+CVV2 --- ok.................. Monday 1st of June 2015 10:18:05 PM
+email ok... Monday 1st of June 2015 10:18:05 PM
+sql request ok... Monday 1st of June 2015 10:18:05 PM
+credit card hash test passed  Monday 1st of June 2015 10:18:05 PM
+json object test passed card data is ok Monday 1st of June 2015 10:18:05 PM
+Validation started.... Monday 1st of June 2015 10:33:52 PM
+Validation started.... Monday 1st of June 2015 10:43:39 PM
+Validation started.... Monday 1st of June 2015 10:43:57 PM
+Validation started.... Monday 1st of June 2015 10:46:27 PM
+Validation started.... Monday 1st of June 2015 10:46:43 PM
+Validation started.... Monday 1st of June 2015 10:48:26 PM
+Validation started.... Monday 1st of June 2015 10:48:28 PM
+Validation started.... Monday 1st of June 2015 10:48:46 PM
+Validation started.... Monday 1st of June 2015 10:49:32 PM
+Validation started.... Monday 1st of June 2015 11:10:33 PM
+phone error Monday 1st of June 2015 11:10:33 PM
+Validation started.... Monday 1st of June 2015 11:11:10 PM
+phone is ok  Monday 1st of June 2015 11:11:10 PM
+Validation started.... Monday 1st of June 2015 11:11:30 PM
+phone is ok  Monday 1st of June 2015 11:11:30 PM
+Validation started.... Monday 1st of June 2015 11:12:09 PM
+phone is ok  Monday 1st of June 2015 11:12:09 PM
+Validation started.... Monday 1st of June 2015 11:12:13 PM
+phone is ok  Monday 1st of June 2015 11:12:13 PM
+Validation started.... Monday 1st of June 2015 11:12:50 PM
+phone is ok  Monday 1st of June 2015 11:12:50 PM
+Validation started.... Monday 1st of June 2015 11:24:38 PM
+Luhn's algorithm ok... Monday 1st of June 2015 11:24:38 PM
+reg expired date ok... Monday 1st of June 2015 11:24:38 PM
+CVV2 --- ok.................. Monday 1st of June 2015 11:24:38 PM
+email ok... Monday 1st of June 2015 11:24:38 PM
+sql request ok... Monday 1st of June 2015 11:24:38 PM
+credit card hash test passed  Monday 1st of June 2015 11:24:38 PM
+json object test passed card data is ok Monday 1st of June 2015 11:24:38 PM
+Validation started.... Monday 1st of June 2015 11:31:08 PM
+phone is ok  Monday 1st of June 2015 11:31:08 PM
+Validation started.... Monday 1st of June 2015 11:40:50 PM
+phone is ok  Monday 1st of June 2015 11:40:50 PM
+phone is ok  Monday 1st of June 2015 11:40:50 PM
+Validation started.... Monday 1st of June 2015 11:41:08 PM
+phone is ok  Monday 1st of June 2015 11:41:08 PM
+phone is ok  Monday 1st of June 2015 11:41:08 PM
+Validation started.... Monday 1st of June 2015 11:42:20 PM
+phone check started  Monday 1st of June 2015 11:42:20 PM
+phone is ok  Monday 1st of June 2015 11:42:20 PM
+Validation started.... Monday 1st of June 2015 11:58:18 PM
+phone check started  Monday 1st of June 2015 11:58:18 PM
+phone from json is ok  Monday 1st of June 2015 11:58:18 PM
+Validation started.... Monday 1st of June 2015 11:58:20 PM
+phone check started  Monday 1st of June 2015 11:58:20 PM
+phone from json is ok  Monday 1st of June 2015 11:58:20 PM
+Validation started.... Tuesday 2nd of June 2015 12:12:07 AM
+phone check started  Tuesday 2nd of June 2015 12:12:07 AM
+phone from json is ok  Tuesday 2nd of June 2015 12:12:07 AM
+Validation started.... Tuesday 2nd of June 2015 12:17:25 AM
+phone check started  Tuesday 2nd of June 2015 12:17:25 AM
+phone from json is ok  Tuesday 2nd of June 2015 12:17:25 AM
+Validation started.... Tuesday 2nd of June 2015 12:18:03 AM
+phone check started  Tuesday 2nd of June 2015 12:18:03 AM
+phone from json is ok  Tuesday 2nd of June 2015 12:18:03 AM
+Validation started.... Tuesday 2nd of June 2015 12:18:47 AM
+Validation started.... Tuesday 2nd of June 2015 12:19:20 AM
+Validation started.... Tuesday 2nd of June 2015 12:20:13 AM
+Validation started.... Tuesday 2nd of June 2015 12:20:15 AM
+Validation started.... Tuesday 2nd of June 2015 12:20:17 AM
+Validation started.... Tuesday 2nd of June 2015 12:20:26 AM
+Validation started.... Tuesday 2nd of June 2015 12:21:31 AM
+Validation started.... Tuesday 2nd of June 2015 12:32:30 AM
+Luhn's algorithm ok... Tuesday 2nd of June 2015 12:32:30 AM
+reg expired date bad data... Tuesday 2nd of June 2015 12:32:30 AM
+Validation started.... Tuesday 2nd of June 2015 12:34:17 AM
+Luhn's algorithm ok... Tuesday 2nd of June 2015 12:34:17 AM
+reg expired date ok... Tuesday 2nd of June 2015 12:34:17 AM
+CVV2 --- error............... Tuesday 2nd of June 2015 12:34:17 AM
+Validation started.... Tuesday 2nd of June 2015 12:34:41 AM
+Luhn's algorithm ok... Tuesday 2nd of June 2015 12:34:41 AM
+reg expired date ok... Tuesday 2nd of June 2015 12:34:41 AM
+CVV2 --- error............... Tuesday 2nd of June 2015 12:34:41 AM
+Validation started.... Tuesday 2nd of June 2015 12:34:49 AM
+Luhn's algorithm ok... Tuesday 2nd of June 2015 12:34:49 AM
+reg expired date ok... Tuesday 2nd of June 2015 12:34:49 AM
+CVV2 from json--- ok.................. Tuesday 2nd of June 2015 12:34:49 AM
+email ok... Tuesday 2nd of June 2015 12:34:49 AM
+sql request ok... Tuesday 2nd of June 2015 12:34:49 AM
+credit card hash test passed  Tuesday 2nd of June 2015 12:34:49 AM
+json object test passed, card data is ok Tuesday 2nd of June 2015 12:34:49 AM
+Validation started.... Tuesday 2nd of June 2015 12:36:34 AM
+Luhn's algorithm ok... Tuesday 2nd of June 2015 12:36:34 AM
+reg expired date ok... Tuesday 2nd of June 2015 12:36:34 AM
+CVV2 from json--- ok.................. Tuesday 2nd of June 2015 12:36:34 AM
+email ok... Tuesday 2nd of June 2015 12:36:34 AM
+sql request ok... Tuesday 2nd of June 2015 12:36:34 AM
+credit card hash test passed  Tuesday 2nd of June 2015 12:36:34 AM
+json object test passed, card data is ok Tuesday 2nd of June 2015 12:36:34 AM
+Validation started.... Tuesday 2nd of June 2015 12:38:33 AM
+Luhn's algorithm ok... Tuesday 2nd of June 2015 12:38:33 AM
+reg expired date ok... Tuesday 2nd of June 2015 12:38:33 AM
+CVV2 from json--- ok.................. Tuesday 2nd of June 2015 12:38:33 AM
+email ok... Tuesday 2nd of June 2015 12:38:33 AM
+sql request ok... Tuesday 2nd of June 2015 12:38:33 AM
+credit card hash test passed  Tuesday 2nd of June 2015 12:38:33 AM
+json object test passed, card data is ok Tuesday 2nd of June 2015 12:38:33 AM
+Validation started.... Tuesday 2nd of June 2015 12:39:10 AM
+Luhn's algorithm ok... Tuesday 2nd of June 2015 12:39:10 AM
+reg expired date ok... Tuesday 2nd of June 2015 12:39:10 AM
+CVV2 from json--- ok.................. Tuesday 2nd of June 2015 12:39:10 AM
+email ok... Tuesday 2nd of June 2015 12:39:10 AM
+sql request ok... Tuesday 2nd of June 2015 12:39:10 AM
+credit card hash test passed  Tuesday 2nd of June 2015 12:39:10 AM
+json object test passed, card data is ok Tuesday 2nd of June 2015 12:39:10 AM
+Validation started.... Tuesday 2nd of June 2015 12:42:13 AM
+Luhn's algorithm ok... Tuesday 2nd of June 2015 12:42:13 AM
+reg expired date ok... Tuesday 2nd of June 2015 12:42:13 AM
+CVV2 from json--- ok.................. Tuesday 2nd of June 2015 12:42:13 AM
+email ok... Tuesday 2nd of June 2015 12:42:13 AM
+sql request ok... Tuesday 2nd of June 2015 12:42:13 AM
+credit card hash test passed  Tuesday 2nd of June 2015 12:42:13 AM
+json object test passed, card data is ok Tuesday 2nd of June 2015 12:42:13 AM
+Validation started.... Tuesday 2nd of June 2015 12:57:10 AM
+phone check started  Tuesday 2nd of June 2015 12:57:10 AM
+phone is ok  Tuesday 2nd of June 2015 12:57:10 AM
+Validation started.... Tuesday 2nd of June 2015 01:00:31 AM
+test #4 started Tuesday 2nd of June 2015 01:00:31 AM
+phone check started  Tuesday 2nd of June 2015 01:00:31 AM
+phone is ok  Tuesday 2nd of June 2015 01:00:31 AM
+ok, validation passed! Tuesday 2nd of June 2015 01:00:31 AM
+Validation started.... Tuesday 2nd of June 2015 01:01:46 AM
+test #4 started Tuesday 2nd of June 2015 01:01:46 AM
+phone check started  Tuesday 2nd of June 2015 01:01:46 AM
+phone number empty database result Tuesday 2nd of June 2015 01:01:46 AM
+ok, validation passed! Tuesday 2nd of June 2015 01:01:46 AM
+Validation started.... Tuesday 2nd of June 2015 01:04:01 AM
+test #4 started Tuesday 2nd of June 2015 01:04:01 AM
+phone check started  Tuesday 2nd of June 2015 01:04:01 AM
+phone is ok Tuesday 2nd of June 2015 01:04:01 AM
+Validation started.... Tuesday 2nd of June 2015 01:05:31 AM
+test #4 started Tuesday 2nd of June 2015 01:05:31 AM
+phone check started  Tuesday 2nd of June 2015 01:05:31 AM
+phone is ok Tuesday 2nd of June 2015 01:05:31 AM
+Validation started.... Tuesday 2nd of June 2015 01:06:13 AM
+test #1 started Tuesday 2nd of June 2015 01:06:13 AM
+Luhn's algorithm ok... Tuesday 2nd of June 2015 01:06:13 AM
+reg expired date ok... Tuesday 2nd of June 2015 01:06:13 AM
+CVV2  --- ok.................. Tuesday 2nd of June 2015 01:06:13 AM
+email ok... Tuesday 2nd of June 2015 01:06:13 AM
+sql request ok... Tuesday 2nd of June 2015 01:06:13 AM
+credit card hash test passed  Tuesday 2nd of June 2015 01:06:13 AM
+json object test passed, card data is ok Tuesday 2nd of June 2015 01:06:13 AM
+Validation started.... Tuesday 2nd of June 2015 01:14:41 AM
+test #1 started Tuesday 2nd of June 2015 01:14:41 AM
+Luhn's algorithm ok... Tuesday 2nd of June 2015 01:14:41 AM
+reg expired date ok... Tuesday 2nd of June 2015 01:14:41 AM
+CVV2  --- ok.................. Tuesday 2nd of June 2015 01:14:41 AM
+email ok... Tuesday 2nd of June 2015 01:14:41 AM
+sql request ok... Tuesday 2nd of June 2015 01:14:41 AM
+credit card hash test passed  Tuesday 2nd of June 2015 01:14:41 AM
+card validation finished                                           Tuesday 2nd of June 2015 01:14:41 AM
+Validation started.... Tuesday 2nd of June 2015 01:16:12 AM
+test #1 started Tuesday 2nd of June 2015 01:16:12 AM
+Luhn's algorithm ok... Tuesday 2nd of June 2015 01:16:12 AM
+reg expired date ok... Tuesday 2nd of June 2015 01:16:12 AM
+CVV2  --- ok.................. Tuesday 2nd of June 2015 01:16:12 AM
+email ok... Tuesday 2nd of June 2015 01:16:12 AM
+sql request ok... Tuesday 2nd of June 2015 01:16:12 AM
+credit card hash test passed  Tuesday 2nd of June 2015 01:16:12 AM
+card validation finished successfully Tuesday 2nd of June 2015 01:16:12 AM
+Validation started.... Tuesday 2nd of June 2015 01:23:02 AM
+test #1 started Tuesday 2nd of June 2015 01:23:02 AM
+Luhn's algorithm ok... Tuesday 2nd of June 2015 01:23:02 AM
+reg expired date ok... Tuesday 2nd of June 2015 01:23:02 AM
+CVV2  --- ok.................. Tuesday 2nd of June 2015 01:23:02 AM
+email ok... Tuesday 2nd of June 2015 01:23:02 AM
+sql request ok... Tuesday 2nd of June 2015 01:23:02 AM
+credit card hash test passed  Tuesday 2nd of June 2015 01:23:02 AM
+card validation finished successfully Tuesday 2nd of June 2015 01:23:02 AM
+Validation started.... Tuesday 2nd of June 2015 12:37:55 AM
+test #1 started Tuesday 2nd of June 2015 12:37:55 AM
+Luhn's algorithm ok... Tuesday 2nd of June 2015 12:37:55 AM
+reg expired date ok... Tuesday 2nd of June 2015 12:37:55 AM
+CVV2  --- ok.................. Tuesday 2nd of June 2015 12:37:55 AM
+email ok... Tuesday 2nd of June 2015 12:37:55 AM
+Validation started.... Tuesday 2nd of June 2015 12:39:28 AM
+test #1 started Tuesday 2nd of June 2015 12:39:28 AM
+Luhn's algorithm ok... Tuesday 2nd of June 2015 12:39:28 AM
+reg expired date ok... Tuesday 2nd of June 2015 12:39:28 AM
+CVV2  --- ok.................. Tuesday 2nd of June 2015 12:39:28 AM
+email ok... Tuesday 2nd of June 2015 12:39:28 AM
+Validation started.... Tuesday 2nd of June 2015 12:41:50 AM
+test #1 started Tuesday 2nd of June 2015 12:41:50 AM
+Luhn's algorithm ok... Tuesday 2nd of June 2015 12:41:50 AM
+reg expired date ok... Tuesday 2nd of June 2015 12:41:50 AM
+CVV2  --- ok.................. Tuesday 2nd of June 2015 12:41:50 AM
+email ok... Tuesday 2nd of June 2015 12:41:50 AM
+card data is not match... Tuesday 2nd of June 2015 12:41:50 AM
+Validation started.... Tuesday 2nd of June 2015 06:33:19 AM
+test #1 started Tuesday 2nd of June 2015 06:33:19 AM
+Luhn's algorithm ok... Tuesday 2nd of June 2015 06:33:19 AM
+reg expired date ok... Tuesday 2nd of June 2015 06:33:19 AM
+CVV2  --- ok.................. Tuesday 2nd of June 2015 06:33:19 AM
+email ok... Tuesday 2nd of June 2015 06:33:19 AM
+card data is not match... Tuesday 2nd of June 2015 06:33:20 AM
+bool true Tuesday 2nd of June 2015 06:33:20 AM
+Validation started.... Tuesday 2nd of June 2015 06:37:03 AM
+test #1 started Tuesday 2nd of June 2015 06:37:03 AM
+Luhn's algorithm ok... Tuesday 2nd of June 2015 06:37:03 AM
+reg expired date ok... Tuesday 2nd of June 2015 06:37:03 AM
+CVV2  --- ok.................. Tuesday 2nd of June 2015 06:37:03 AM
+email ok... Tuesday 2nd of June 2015 06:37:03 AM
+card data is not match... Tuesday 2nd of June 2015 06:37:03 AM
+bool true Tuesday 2nd of June 2015 06:37:03 AM
+Validation started.... Tuesday 2nd of June 2015 06:37:10 AM
+test #1 started Tuesday 2nd of June 2015 06:37:10 AM
+Luhn's algorithm ok... Tuesday 2nd of June 2015 06:37:10 AM
+reg expired date ok... Tuesday 2nd of June 2015 06:37:10 AM
+CVV2  --- ok.................. Tuesday 2nd of June 2015 06:37:10 AM
+email ok... Tuesday 2nd of June 2015 06:37:10 AM
+card data is not match... Tuesday 2nd of June 2015 06:37:10 AM
+bool true Tuesday 2nd of June 2015 06:37:10 AM
+Validation started.... Tuesday 2nd of June 2015 06:53:15 AM
+test #1 started Tuesday 2nd of June 2015 06:53:15 AM
+Luhn's algorithm ok... Tuesday 2nd of June 2015 06:53:15 AM
+reg expired date ok... Tuesday 2nd of June 2015 06:53:15 AM
+CVV2  --- ok.................. Tuesday 2nd of June 2015 06:53:15 AM
+email ok... Tuesday 2nd of June 2015 06:53:15 AM
+card data is not match... Tuesday 2nd of June 2015 06:53:15 AM
+bool true Tuesday 2nd of June 2015 06:53:15 AM
+Validation started.... Tuesday 2nd of June 2015 06:53:59 AM
+test #1 started Tuesday 2nd of June 2015 06:53:59 AM
+Luhn's algorithm error... Tuesday 2nd of June 2015 06:53:59 AM
+bool true Tuesday 2nd of June 2015 06:53:59 AM
+Validation started.... Tuesday 2nd of June 2015 06:54:28 AM
+test #1 started Tuesday 2nd of June 2015 06:54:28 AM
+Luhn's algorithm error... Tuesday 2nd of June 2015 06:54:28 AM
+bool true Tuesday 2nd of June 2015 06:54:28 AM
+Validation started.... Tuesday 2nd of June 2015 06:54:39 AM
+test #1 started Tuesday 2nd of June 2015 06:54:39 AM
+Luhn's algorithm error... Tuesday 2nd of June 2015 06:54:39 AM
+bool true Tuesday 2nd of June 2015 06:54:39 AM
+Validation started.... Tuesday 2nd of June 2015 06:56:23 AM
+test #1 started Tuesday 2nd of June 2015 06:56:23 AM
+Luhn's algorithm error... Tuesday 2nd of June 2015 06:56:23 AM
+bool false Tuesday 2nd of June 2015 06:56:23 AM
+Validation started.... Tuesday 2nd of June 2015 06:57:01 AM
+test #1 started Tuesday 2nd of June 2015 06:57:01 AM
+Luhn's algorithm ok... Tuesday 2nd of June 2015 06:57:01 AM
+reg expired date ok... Tuesday 2nd of June 2015 06:57:01 AM
+CVV2  --- ok.................. Tuesday 2nd of June 2015 06:57:01 AM
+email ok... Tuesday 2nd of June 2015 06:57:01 AM
+card data is not match... Tuesday 2nd of June 2015 06:57:01 AM
+bool false Tuesday 2nd of June 2015 06:57:01 AM
+Validation started.... Tuesday 2nd of June 2015 06:59:08 AM
+test #1 started Tuesday 2nd of June 2015 06:59:08 AM
+Luhn's algorithm ok... Tuesday 2nd of June 2015 06:59:08 AM
+reg expired date ok... Tuesday 2nd of June 2015 06:59:08 AM
+CVV2  --- ok.................. Tuesday 2nd of June 2015 06:59:08 AM
+email ok... Tuesday 2nd of June 2015 06:59:08 AM
+card data is not match... Tuesday 2nd of June 2015 06:59:08 AM
+bool false Tuesday 2nd of June 2015 06:59:08 AM
+Validation started.... Tuesday 2nd of June 2015 07:00:02 AM
+test #1 started Tuesday 2nd of June 2015 07:00:02 AM
+Luhn's algorithm ok... Tuesday 2nd of June 2015 07:00:02 AM
+reg expired date ok... Tuesday 2nd of June 2015 07:00:02 AM
+CVV2  --- ok.................. Tuesday 2nd of June 2015 07:00:02 AM
+email ok... Tuesday 2nd of June 2015 07:00:02 AM
+card data is not match... Tuesday 2nd of June 2015 07:00:02 AM
+bool false Tuesday 2nd of June 2015 07:00:02 AM
+Validation started.... Tuesday 2nd of June 2015 07:01:49 AM
+test #1 started Tuesday 2nd of June 2015 07:01:49 AM
+Luhn's algorithm ok... Tuesday 2nd of June 2015 07:01:49 AM
+reg expired date ok... Tuesday 2nd of June 2015 07:01:49 AM
+CVV2  --- ok.................. Tuesday 2nd of June 2015 07:01:49 AM
+email ok... Tuesday 2nd of June 2015 07:01:49 AM
+sql request ok... Tuesday 2nd of June 2015 07:01:49 AM
+credit card hash test passed  Tuesday 2nd of June 2015 07:01:49 AM
+card validation finished successfully Tuesday 2nd of June 2015 07:01:49 AM
+bool false Tuesday 2nd of June 2015 07:01:49 AM
+bool false Tuesday 2nd of June 2015 07:12:47 AM
+Validation started.... Tuesday 2nd of June 2015 07:18:41 AM
+test #1 started Tuesday 2nd of June 2015 07:18:41 AM
+Luhn's algorithm ok... Tuesday 2nd of June 2015 07:18:41 AM
+reg expired date ok... Tuesday 2nd of June 2015 07:18:41 AM
+CVV2  --- ok.................. Tuesday 2nd of June 2015 07:18:41 AM
+email ok... Tuesday 2nd of June 2015 07:18:41 AM
+sql request ok... Tuesday 2nd of June 2015 07:18:41 AM
+credit card hash test passed  Tuesday 2nd of June 2015 07:18:41 AM
+card validation finished successfully Tuesday 2nd of June 2015 07:18:41 AM
+bool true Tuesday 2nd of June 2015 07:18:41 AM
+Validation started.... Tuesday 2nd of June 2015 07:18:56 AM
+test #1 started Tuesday 2nd of June 2015 07:18:56 AM
+Luhn's algorithm ok... Tuesday 2nd of June 2015 07:18:56 AM
+reg expired date ok... Tuesday 2nd of June 2015 07:18:56 AM
+CVV2  --- ok.................. Tuesday 2nd of June 2015 07:18:56 AM
+email ok... Tuesday 2nd of June 2015 07:18:56 AM
+sql request ok... Tuesday 2nd of June 2015 07:18:56 AM
+credit card hash test passed  Tuesday 2nd of June 2015 07:18:56 AM
+card validation finished successfully Tuesday 2nd of June 2015 07:18:56 AM
+bool true Tuesday 2nd of June 2015 07:18:56 AM
+Validation started.... Tuesday 2nd of June 2015 07:19:18 AM
+test #1 started Tuesday 2nd of June 2015 07:19:18 AM
+Luhn's algorithm ok... Tuesday 2nd of June 2015 07:19:18 AM
+reg expired date ok... Tuesday 2nd of June 2015 07:19:18 AM
+CVV2  --- ok.................. Tuesday 2nd of June 2015 07:19:18 AM
+email ok... Tuesday 2nd of June 2015 07:19:18 AM
+sql request ok... Tuesday 2nd of June 2015 07:19:18 AM
+credit card hash test passed  Tuesday 2nd of June 2015 07:19:18 AM
+card validation finished successfully Tuesday 2nd of June 2015 07:19:18 AM
+bool true Tuesday 2nd of June 2015 07:19:18 AM
+Validation started.... Tuesday 2nd of June 2015 07:20:04 AM
+test #1 started Tuesday 2nd of June 2015 07:20:04 AM
+Luhn's algorithm error... Tuesday 2nd of June 2015 07:20:04 AM
+bool false Tuesday 2nd of June 2015 07:20:04 AM
+Validation started.... Tuesday 2nd of June 2015 07:20:14 AM
+test #1 started Tuesday 2nd of June 2015 07:20:14 AM
+Luhn's algorithm ok... Tuesday 2nd of June 2015 07:20:14 AM
+reg expired date ok... Tuesday 2nd of June 2015 07:20:14 AM
+CVV2  --- ok.................. Tuesday 2nd of June 2015 07:20:14 AM
+email ok... Tuesday 2nd of June 2015 07:20:14 AM
+sql request ok... Tuesday 2nd of June 2015 07:20:14 AM
+credit card hash test passed  Tuesday 2nd of June 2015 07:20:14 AM
+card validation finished successfully Tuesday 2nd of June 2015 07:20:14 AM
+bool true Tuesday 2nd of June 2015 07:20:14 AM
